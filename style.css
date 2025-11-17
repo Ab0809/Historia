@@ -53,3 +53,12 @@
         margin-left: 0px;
     }
 }
+.body2{
+    background-color: palegoldenrod;
+}
+.stycke2 a{
+    text-decoration: none;
+}
+.stycke2 ul{
+    list-style: none;
+}
