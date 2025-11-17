@@ -22,7 +22,10 @@
     font-size: 18px;
     padding: 15px;
     border-style: solid;
+    align-items: center;
+    
 }
+
 .stycke3{
     background-color: rgb(222, 122, 228);
     border-radius: 20px;
@@ -58,7 +61,15 @@
 }
 .stycke2 a{
     text-decoration: none;
+    
 }
 .stycke2 ul{
     list-style: none;
+}
+
+li {
+    text-decoration: none;
+}
+ul {
+    text-align: center;
 }
