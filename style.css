@@ -26,6 +26,24 @@
     
 }
 
+.stycke4{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+.stycke4 p{
+    font-size: 15px;
+    text-align: left;
+}
+
+.stycke5{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
 .stycke3{
     background-color: rgb(222, 122, 228);
     border-radius: 20px;
@@ -56,14 +74,14 @@
         margin-left: 0px;
     }
 }
-.body2{
-    background-color: palegoldenrod;
+.body2, .body3{
+    background-color: rgb(148, 122, 228);
 }
-.stycke2 a{
+.stycke2,.body3 a{
     text-decoration: none;
     
 }
-.stycke2 ul{
+.stycke2, .body3 ul{
     list-style: none;
 }
 
@@ -72,4 +90,38 @@ li {
 }
 ul {
     text-align: center;
+}
+.google{
+    background-color: rgb(229, 82, 166);
+    border-radius: 20px;
+    max-width: 700px;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 25px;
+    padding: 15px;
+    border-style: solid;
+}
+
+.bluetooth{
+    background-color: rgb(229, 82, 166);
+    border-radius: 20px;
+    max-width: 700px;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 25px;
+    padding: 15px;
+    border-style: solid;
+}
+.stycke4{
+    background-color: rgb(229, 82, 166);
+    border-radius: 20px;
+    max-width: 700px;
+    text-align: center;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 25px;
+    padding: 15px;
+    border-style: solid;
 }
